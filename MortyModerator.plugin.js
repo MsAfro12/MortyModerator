@@ -3,9 +3,9 @@
  * @description Narzędzie ułatwiające moderację i administrację serwera Cytadela.
  * @website https://github.com/MsAfro12/MortyModerator
  * @github https://github.com/MsAfro12/MortyModerator
- * @github_raw
- * @updateUrl
- * @source
+ * @github_raw https://raw.githubusercontent.com/MsAfro12/MortyModerator/main/MortyModerator.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/MsAfro12/MortyModerator/main/MortyModerator.plugin.js
+ * @source https://raw.githubusercontent.com/MsAfro12/MortyModerator/main/MortyModerator.plugin.js
  * @author Afro
  * @authorId 238269609172533248
  * @invite GXPzyvY
@@ -23,9 +23,9 @@
 		  "Narzędzie ułatwiające moderację i administrację serwera Cytadela.",
 		website: "https://github.com/MsAfro12/MortyModerator",
 		github: "https://github.com/MsAfro12/MortyModerator",
-		github_raw: "",
-		updateUrl: "",
-		source: "",
+		github_raw: "https://raw.githubusercontent.com/MsAfro12/MortyModerator/main/MortyModerator.plugin.js",
+		updateUrl: "https://raw.githubusercontent.com/MsAfro12/MortyModerator/main/MortyModerator.plugin.js",
+		source: "https://raw.githubusercontent.com/MsAfro12/MortyModerator/main/MortyModerator.plugin.js",
 		author: "Afro",
 		authorId: "231850998279176193",
 		invite: "GXPzyvY",
